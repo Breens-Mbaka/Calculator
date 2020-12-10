@@ -28,7 +28,7 @@ Screenshots and GIFs of how the apps looks like and function will go here.
 To run this project:
 
 ```
-$ git clone 
+$ git clone https://github.com/Breens-Thomas/Calculator.git
 $ cd calculator
 ```
 Link to live project:"link will go here"
@@ -49,10 +49,10 @@ To-do list:
 Project is: _in progress_ because there are technologies I'm learning to implement certain features.The technologies include Javascript,Jquery and Bootstrap.
 
 ## Inspiration
-Inspiration is from using my personal phone calculator
+Inspiration is from using my personal phone calculator.
 
 ## Contact
-Created by [Breens Mbaka](https://www.linkedin.com/in/breens-mbaka-b447781b9/) - feel free to contact me in Linkdeln!
+Created by [Breens Mbaka](https://www.linkedin.com/in/breens-mbaka-b447781b9/) - feel free to contact me!
 
 ## copyright and license information
 [MIT](https://github.com/Breens-Thomas/Calculator/blob/master/LICENSE.txt) (c) 2020 Breens Mbaka

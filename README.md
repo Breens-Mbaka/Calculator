@@ -54,5 +54,5 @@ Inspiration is from using my personal phone calculator
 ## Contact
 Created by [Breens Mbaka](https://www.linkedin.com/in/breens-mbaka-b447781b9/) - feel free to contact me in Linkdeln!
 
-## copyright and license information
-MIT (c) 2020 Breens Mbaka.
+## copyright and license information(https://github.com/Breens-Thomas/Calculator/blob/master/LICENSE.txt)
+MIT (c) 2020 Breens Mbaka
